@@ -1,3 +1,0 @@
-/home/respecter8/CLionProjects/The_seventh_question/cmake-build-debug/CMakeFiles/The_seventh_question.dir
-/home/respecter8/CLionProjects/The_seventh_question/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/respecter8/CLionProjects/The_seventh_question/cmake-build-debug/CMakeFiles/rebuild_cache.dir
