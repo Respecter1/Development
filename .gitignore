@@ -2,3 +2,21 @@
 *.dSIM
 *.idea/
 cmake-build-debug/
+
+
+# Ігнорування інших тимчасових файлів
+*.log
+*.tmp
+*.bak
+
+# Ігнорування файлів CMake кешу
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Ігнорування виконуваних файлів
+*.exe
+*.out
+*.obj
+*.o
